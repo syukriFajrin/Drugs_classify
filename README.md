@@ -1,8 +1,8 @@
-# Build Desicion Tree Model
+# Build K-Nearst Model
 ---
 ## Overview
 ---
-This project aims to predict type Drug based on their variabels using a Desicion Tree model.
+This project aims to predict type Drug based on their variabels using a K-nearst model.
 
 ---
 ## Objectives
@@ -15,7 +15,7 @@ This project aims to predict type Drug based on their variabels using a Desicion
 ---
 ## Dataset
 ---
-The dataset contains 1 feature and 1 target variable:
+The dataset contains features and 1 target variable:
 * age            
 * sex            
 * bp             
