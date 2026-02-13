@@ -1,8 +1,8 @@
-# Build K-Nearst Model
+# Build Decision Tree Model
 ---
 ## Overview
 ---
-This project aims to predict type Drug based on their variabels using a K-nearst model.
+This project aims to predict type Drug based on their variabels using a Decision Tree model.
 
 ---
 ## Objectives
